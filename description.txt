@@ -1,0 +1,7 @@
+Kanat's CRM system
+
+The system helps to keep leads, categorize, link records to agents.
+My user is a manager or director of enterprises or companies. They create leads, they create agents,
+can assign a specific agent to the record. They can also update, delete leads and agents.
+Agents can also log in. They only see their own entries, which are assigned to them by the organizer.
+Agents can create their own leads, update, delete them.
