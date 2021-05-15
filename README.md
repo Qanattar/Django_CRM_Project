@@ -23,5 +23,7 @@ The Application is created using following Technologies
 - Tailwindcss - Templates for interface (css)
 - PostgreSQL - Database
 
+## Class diagram
 <div align="center">
+  ![class diagram](https://drive.google.com/file/d/1oU3cIDu2f0U8dkfeoQwjulYwM1K9mD9v/view?usp=sharing)
 </div>
